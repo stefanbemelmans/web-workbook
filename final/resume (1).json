@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Stefan Bemelmans",
+    "label": "",
+    "picture": "",
+    "email": "stefanbemelmans898@gmail.com",
+    "phone": "xxx.xxx.xxxx",
+    "website": "www.linkedin.",
+    "summary": "Chef Turned Software Developer",
+    "location": {
+      "address": "",
+      "postalCode": "78702",
+      "city": "Austin",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Git-Hub",
+        "username": "stefanbemelmans",
+        "url": "https://github.com/stefanbemelmans"
+      },
+      {
+        "network": "Git-Hub",
+        "username": "stackbaxter",
+        "url": "https://github.com/stackbaxter"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "stackbaxter",
+        "url": "https://www.linkedin.com/in/stackbaxter/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "The Austin Club",
+      "position": "Lead Line Cook",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Working with a great chef.",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Cornucopia Project",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}

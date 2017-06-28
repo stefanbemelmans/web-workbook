@@ -2,7 +2,7 @@ $(function() {
   // Put app logic here
   // let $ringVal = $(this).children().last();
   let $ring = 'null';
-  let $length = $(this).children().last().length;
+  let length = $(this).children().last().length;
 
   $('[data-stack]').click(function(){
 
