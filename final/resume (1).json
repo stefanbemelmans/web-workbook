@@ -6,7 +6,7 @@
     "email": "stefanbemelmans898@gmail.com",
     "phone": "xxx.xxx.xxxx",
     "website": "www.linkedin.",
-    "summary": "Chef Turned Software Developer",
+    "summary": "Computer Programmer Turned Chef Turned Web Developer",
     "location": {
       "address": "",
       "postalCode": "78702",
@@ -49,8 +49,8 @@
   "volunteer": [
     {
       "organization": "The Cornucopia Project",
-      "position": "",
-      "website": "",
+      "position": "Chef Consultant",
+      "website": "cornucopiaproject.org",
       "startDate": "",
       "endDate": "",
       "summary": "",
