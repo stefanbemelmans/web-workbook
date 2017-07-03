@@ -6,13 +6,6 @@ body{
   color: white;
 }
 
-p{
-  margin: 2rem;
-  font-size: 2rem;
-  font-family: Gill Sans Extrabold, sans-serif;
-  color: #fde6b1;
-}
-
 .img-thumbnail{
   height:
 }
@@ -21,9 +14,16 @@ background-repeat: no-repeat;
 background-size: cover;
 
 }
-
+p{size: 1.5rem;}
 .first{
   background: url(headcheesedark.jpg);
+}
+
+.first p{
+  margin: 2rem;
+  font-size: 2rem;
+  font-family: Gill Sans Extrabold, sans-serif;
+  color: #fde6b1;
 }
 
 /*.second{
@@ -132,7 +132,7 @@ background-size: cover;
   }
 }
 
-/*different breathing patters*/
+/*different breathing patterns*/
 .breathing1{
   width: 300px;
   padding: 2px;
@@ -228,15 +228,20 @@ float: right;
   height: 500px;
 }
 
+.checkpoint1{
+  background-color: black;
+  height: auto;
+  justify-content: center;
+}
 /*.content{
   width: 400px;
   height: 500px;
   background-color: aliceblue;*/
 }
-.pg-canvas{
+/*.pg-canvas{
   height: 700px;
   background-color: black
 
 }
 
-.ui-menu { width: 200px; }
+.ui-menu { width: 200px; }*/
